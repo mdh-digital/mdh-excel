@@ -1,6 +1,5 @@
 ## MDHEXCEL - LARAVEL EXPORT EXCEL AND CSV FOR MANY DATA 
-
-### Laravel wrapper for  
+ 
 
 ## Installation 
 
@@ -92,4 +91,4 @@ $download   = new MdhExcelCreation();
   
 ### License
 
-This DOMPDF Wrapper for Laravel is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+This Mdhexcel Wrapper for Laravel is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
